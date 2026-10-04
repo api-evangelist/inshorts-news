@@ -39,7 +39,6 @@ apis:
   - name: Inshorts News
     description: "Provides news from inshorts"
     humanURL: https://github.com/cyberboysumanjay/Inshorts-News-API
-    baseURL: https://github.com/cyberboysumanjay/Inshorts-News-API
     tags:
       - News
     properties:
